@@ -10,5 +10,5 @@ class Cadena:
 
   
 
-cadena=cadena()
+cadena=Cadena()
 cadena.longituddeCadena()
